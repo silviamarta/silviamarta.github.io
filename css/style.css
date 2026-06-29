@@ -345,9 +345,9 @@ nav a:hover{
 
 @media(max-width:992px){
 
-.project-card{
-
-grid-template-columns:1fr;
+    nav ul{
+        display:none;
+    }
 
 }
 
@@ -359,7 +359,6 @@ gap:20px;
 
 }
 
-}
 
 .skills{
 
